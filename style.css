@@ -92,7 +92,7 @@ section .develop-part{
     margin-bottom: 100px;
 }
 #codnig-pic{
-    width:90%;
+    width:140%;
     margin-right:-25px;
 }
 section #coding-title{
@@ -108,4 +108,62 @@ section #coding-title h1{
 section #coding-title p{
     margin-bottom:35px;
     word-wrap: break-word;
+    font-size:20px;
+}
+.global-community{
+    margin-top:70px;
+}
+#global-pic{
+    width:35%;
+}
+.global-title{
+    margin-top:50px;
+}
+.global-title h1{
+    margin:0;
+    padding:0;
+    font-size:50px;
+    font-weight: 700;
+}
+.global-title p{
+    margin-top:20px;
+}
+.about{
+    margin-top:20px;
+}
+#About-section{
+    margin-left:100px;
+}
+.about-title{
+    margin-top: 180px;
+}
+.about-title h1{
+    font-size:50px;
+    font-weight: 700;
+    margin:0;
+    padding:0;
+}
+.about-title span{
+    color:#0fdd0fbd;
+}
+.about-title p{
+    width:62%;
+    margin-bottom: 40px;
+    word-wrap: break-word;
+}
+.footer-section{
+    background-color: black;
+    text-align: center;
+    padding:20px 0px 40px 0px;
+   
+}
+.footer-section h1{
+    color:#fff;
+    font-style: italic;
+}
+.footer-section h1 span{
+    color:#0fdd0fbd;
+}
+.footer-section span{
+    color:gray;
 }
