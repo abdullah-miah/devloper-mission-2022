@@ -67,7 +67,7 @@ body{
     
 }
 .vission{
-    background-color:#7fe6bb75;
+    background-color:#fac4c4d1;
 }
 .goals{
     background-color: #00ff374a;
@@ -79,6 +79,7 @@ body{
    padding-left:30px;
    border-radius: 3px;
    height: 350px;
+   border-radius: 30px;
    
 
     
@@ -86,4 +87,25 @@ body{
 .third-width img{
     width:150px;
     
+}
+section .develop-part{
+    margin-bottom: 100px;
+}
+#codnig-pic{
+    width:90%;
+    margin-right:-25px;
+}
+section #coding-title{
+    margin-top:60px;
+    margin-right:145px;
+}
+section #coding-title h1{
+    font-size:50px;
+    font-weight: 700;
+    margin:0;
+    padding:0;
+}
+section #coding-title p{
+    margin-bottom:35px;
+    word-wrap: break-word;
 }
